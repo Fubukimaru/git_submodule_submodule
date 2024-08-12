@@ -1,6 +1,6 @@
 import random
 
-def print_number(int: num):
+def print_number(num: int):
     print(f"And here we have a number: {num}")
 
 def get_random_number():
